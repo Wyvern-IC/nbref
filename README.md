@@ -1,4 +1,4 @@
-# A neural-based binary analysis tool
+# N-Bref A neural-based binary decompilation tool
 
 ## Introduction
 
